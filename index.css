@@ -82,9 +82,9 @@ ul{
   }
 
 
- @media[
+ @media (max-width: 420px){
 contenedor{
 max-width: 420px;
   
 }
-]
+ }
