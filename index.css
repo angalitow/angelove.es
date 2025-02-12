@@ -81,3 +81,10 @@ ul{
     display: block;
   }
 
+
+ @media[
+contenedor{
+max-width: 420px;
+  
+}
+]
