@@ -59,7 +59,7 @@ P, a{
   }
 
   #abajo{
-    margin-top: 2opx;
+    margin-top: 20px;
     border-radius: 50%;
   }
 
@@ -82,9 +82,3 @@ ul{
   }
 
 
- @media (max-width: 420px){
-contenedor{
-max-width: 420px;
-  
-}
- }
