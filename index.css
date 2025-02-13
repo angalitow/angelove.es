@@ -38,7 +38,7 @@ P, a{
 
 .cabeza{
     display: flex;
-    font-size: 25px;
+    font-size: 15px;
     color: rgb(175, 99, 0);
     text-align: center;
     background-color: black;
@@ -55,7 +55,7 @@ P, a{
   }
   
   .sca:hover {
-    transform: scale(1.5);
+    transform: scale(1.2);
   }
 
   #abajo{
@@ -72,13 +72,22 @@ ul{
 
   li{
     text-align: center;
-    margin-left: 30px;
+    margin: 10px;
   }
 
+    footer{
+      justify-content: center;
+      text-align: center;
+    }
 
 
   .cascada{
     display: block;
   }
 
+  @media(min-width:370px){
+    body{
+      color: aliceblue;
+    }
+  }
 
