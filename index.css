@@ -17,6 +17,12 @@ a{
 
 }
 
+
+.nocolor{
+color: white;
+ 
+}
+
 .canciones{
     font-size: 35px;
     text-align: center;
