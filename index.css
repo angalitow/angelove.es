@@ -58,6 +58,7 @@ P, a{
 
 .sca {
     transition: transform 0.3s;
+    width: 150px;
   }
   
   .sca:hover {
