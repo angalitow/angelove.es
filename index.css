@@ -58,12 +58,15 @@ P, a{
 
 .sca {
     transition: transform 0.3s;
-    width: 150px;
   }
   
   .sca:hover {
     transform: scale(1.2);
   }
+
+.imgultima{
+  width:200px;
+}
 
   #abajo{
     margin-top: 20px;
